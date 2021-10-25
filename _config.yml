@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 kramdown:
   syntax_highlighter_opts:
     disable : true
+=======
+theme: jekyll-theme-cayman
+>>>>>>> 71fc55f7d912784aa1b3f288b822eccdf143b594
