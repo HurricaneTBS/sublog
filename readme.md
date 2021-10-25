@@ -1,3 +1,4 @@
+```bash
 .
 ├── _config.yml // 配置文件
 ├── _drafts // 草稿箱
@@ -15,6 +16,7 @@
 ├── _site
 ├── .jekyll-metadata
 └── index.html
+```
 
 ### _config.yml 
 配置文件
